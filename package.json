@@ -1,0 +1,37 @@
+{
+  "name": "nose",
+  "description": "JSNose is a JavaScript code smell detector tool written in JavaScript.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/codelinks/jsnose",
+  "author": {
+    "name": "lucianlature",
+    "email": "lucian.lature@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codelinks/jsnose.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codelinks/jsnose/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/codelinks/jsnose/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/nose",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt nodeunit"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt": "~0.4.5"
+  },
+  "keywords": []
+}
