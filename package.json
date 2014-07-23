@@ -33,7 +33,10 @@
     "grunt-contrib-watch": "~0.5.3",
     "grunt": "~0.4.5",
     "esprima": "~1.2.2",
-    "allong.es": "~0.14.0"
+    "allong.es": "~0.14.0",
+    "estraverse": "~1.5.1",
+    "underscore-contrib": "~0.3.0",
+    "ast-traverse": "~0.1.1"
   },
   "keywords": []
 }
