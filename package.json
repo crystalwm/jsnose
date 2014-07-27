@@ -29,6 +29,7 @@
   },
   "dependencies": {
     "commander": "2.0.0",
+    "debug": "*",
     "glob": "3.2.3"
   },
   "devDependencies": {
