@@ -41,7 +41,8 @@
     "allong.es": "~0.14.0",
     "estraverse": "~1.5.1",
     "underscore-contrib": "~0.3.0",
-    "ast-traverse": "~0.1.1"
+    "ast-traverse": "~0.1.1",
+    "node-uuid": "~1.4.1"
   },
   "keywords": []
 }
